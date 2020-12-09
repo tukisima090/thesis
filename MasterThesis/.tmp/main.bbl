@@ -202,6 +202,43 @@
       \verb http://dx.doi.org/10.1140/epjqt/s40507-016-0048-2
       \endverb
     \endentry
+    \entry{Coon1965}{article}{}
+      \name{author}{2}{}{%
+        {{hash=bf7ead25671db90dc5b240e51f53ec86}{%
+           family={Coon},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=08d34ce28edbcadce774ec826aa3bd06}{%
+           family={Fiske},
+           familyi={F\bibinitperiod},
+           given={M.\bibnamedelimi D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{6250ead7b4f5b7144f817bd6e6fd5f70}
+      \strng{fullhash}{6250ead7b4f5b7144f817bd6e6fd5f70}
+      \strng{bibnamehash}{6250ead7b4f5b7144f817bd6e6fd5f70}
+      \strng{authorbibnamehash}{6250ead7b4f5b7144f817bd6e6fd5f70}
+      \strng{authornamehash}{6250ead7b4f5b7144f817bd6e6fd5f70}
+      \strng{authorfullhash}{6250ead7b4f5b7144f817bd6e6fd5f70}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Superconductive tunneling junctions exhibiting the Josephson effect will carry appreciable currents (∼50 mA) with no voltage drop in the absence of any magnetic field. In applied fields of a few gauss the current-voltage characteristic becomes steplike, with appreciable currents now being carried in constant-voltage steps at regularly spaced voltages. It is shown that these steps are associated with resonant electro-magnetic modes of the junction, which acts as an open-ended cavity. The lowest frequency mode in junctions made so far occurs at ∼5 kMc/sec, and is set by the junction dimensions. The highest mode occurs near the half-energy gap of the superconductor used for the junctions-for tin, about 250 kMc/sec. {{$\copyright$}} 1965 The American Physical Society.}
+      \field{issn}{0031899X}
+      \field{journaltitle}{Physical Review}
+      \field{number}{3A}
+      \field{title}{{Josephson ac and step structure in the supercurrent tunneling characteristic}}
+      \field{volume}{138}
+      \field{year}{1965}
+      \verb{doi}
+      \verb 10.1103/PhysRev.138.A744
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/侃侃諤諤/Downloads/PhysRev.138.A744.pdf:pdf
+      \endverb
+    \endentry
     \entry{Harris2009}{article}{}
       \name{author}{10}{}{%
         {{hash=f16d9ccb46c68323a58860aed1140bb2}{%
@@ -261,8 +298,8 @@
       \strng{authorbibnamehash}{6e4176fd543a72386eb6b22c62605d8f}
       \strng{authornamehash}{09012a1c443d2d6f36ff2ffea65c367d}
       \strng{authorfullhash}{6e4176fd543a72386eb6b22c62605d8f}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{An improved tunable coupling element for building networks of coupled rf-SQUID flux qubits has been experimentally demonstrated. This new form of coupler, based upon the compound Josephson junction rf-SQUID, provides a sign and magnitude tunable mutual inductance between qubits with minimal nonlinear crosstalk from the coupler tuning parameter into the qubits. Quantitative agreement is shown between an effective one-dimensional model of the coupler's potential and measurements of the coupler persistent current and susceptibility.}
