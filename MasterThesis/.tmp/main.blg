@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.10
+[1] Config.pm:305> INFO - Logfile is '.tmp/main.blg'
+[38] biber:313> INFO - === Wed Dec  9, 2020, 07:00:34
+[83] Biber.pm:371> INFO - Reading '.tmp/main.bcf'
+[188] Biber.pm:857> INFO - Found 3 citekeys in bib section 0
+[216] Biber.pm:3976> INFO - Processing section 0
+[229] Biber.pm:4136> INFO - Looking for bibtex format file 'bibs.bib' for section 0
+[264] bibtex.pm:1490> INFO - LaTeX decoding ...
+[346] bibtex.pm:1306> INFO - Found BibTeX data source 'bibs.bib'
+[348] Utils.pm:193> WARN - Duplicate entry key: 'Peropadre2013' in file 'bibs.bib', skipping ...
+[473] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[474] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[475] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[475] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[485] bbl.pm:617> INFO - Writing '.tmp/main.bbl' with encoding 'UTF-8'
+[486] bbl.pm:618> INFO - Converting UTF-8 to TeX macros on output to .bbl
+[504] bbl.pm:720> INFO - Output to .tmp/main.bbl
+[505] Biber.pm:110> INFO - WARNINGS: 1
